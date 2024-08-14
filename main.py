@@ -33,7 +33,7 @@ MAGNITUDE_THRESHOLD = 500  # Minimum magnitude to consider a frequency valid
 SEND_SETUP = {
     'platform': 'discord', # Select from platform(s) below
     'platform_specific': {
-        'discord': 'https://discord.com/api/webhooks/1273265996437917797/cHm_YzdMYFIg1ynyI_YoRUTkDE0qzNDq6FAn_IpkOVe-06yYDtfjxeJSZPH8f0kQb9KE'
+        'discord': 'https://discord.com/api/webhooks/____/____'
     }
 }
 
