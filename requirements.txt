@@ -1,0 +1,8 @@
+scipy
+numpy
+pyaudio
+keyboard
+platform
+mss
+requests
+scapy
